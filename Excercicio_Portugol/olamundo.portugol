@@ -1,0 +1,4 @@
+algoritimo "olamundo"
+inicio
+    escreva("Olá, mundo")
+fimalgoritmo
