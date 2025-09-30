@@ -1,0 +1,8 @@
+algoritmo "leitura_nome"
+inicio
+    String nome
+    escreva("Digite seu nome: ")
+    leia(nome)
+
+    escreva("Olá, " + nome + "!")
+fimalgoritmo
